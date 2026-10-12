@@ -105,5 +105,4 @@ The React dashboard should display:
 
 The project will include automated tests, matching-performance measurements, API validation, and error handling to assess the reliability of the system.
 
-
 The matching engine should remain functional without an AI service. AI explanations must be based on actual matching results rather than invented evidence.
